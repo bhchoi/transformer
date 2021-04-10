@@ -1,0 +1,7 @@
+d_model: 512
+n_head: 8
+max_len: 128
+dropout_ratio: 0.1
+ff_dim: 2048
+n_layers: 6
+batch_size: 32
